@@ -1,0 +1,12 @@
+
+git config --global user.name "ozq1"
+
+
+
+git config --global user.email "ozq1@nfjp.cc"
+
+
+
+git clone https://github.com/ozq1/DEV.git
+
+
